@@ -1,0 +1,2 @@
+msgid "ENABLE SERVICE"
+msgstr "فعال بودن پلاگین"
